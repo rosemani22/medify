@@ -20,16 +20,16 @@ The ability to book an appointment within a time frame from today up to one week
 A selection of available time slots for the selected day.
 
 Available hospitals in the city:
-![Booking](src/Images/slot%20booking.png)
+![Booking](src/Images/slotbooking.png)
 
-![select date and time](src/images/slotdateandtime.png)
+![select date and time](src/Images/slotdateandtime.png)
 
-![confirm Booking](src/images/slotbookingconf.png)
+![confirm Booking](src/Images/slotbookingconf.png)
 
 My Bookings Page:
 A personalized page displaying all user bookings, including details such as the medical center's name, appointment date, and time.
 
-![Post Booking](src/images/postslotbooking.png.png)
+![Post Booking](src/Images/postslotbooking.png)
 
 
 
